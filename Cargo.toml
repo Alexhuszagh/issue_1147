@@ -1,0 +1,12 @@
+[package]
+name = "issue_1147"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[build-dependencies]
+bindgen = "0.60.1"
+
+[features]
+default = []
+cpp = []
